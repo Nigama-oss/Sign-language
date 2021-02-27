@@ -15,3 +15,6 @@ A Real time sign language detection app with Tensorflow and React.js
   
 
 Make sure to also download the object-detection files from https://github.com/Nigama-oss/Tensorflow before running on your computer.
+
+
+Checkout the process of creating this project in [this blog post](https://www.nigamavykari.me/sign-language-detection-with-tensorflow/index.html)
