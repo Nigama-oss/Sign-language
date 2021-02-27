@@ -14,4 +14,4 @@ A Real time sign language detection app with Tensorflow and React.js
   OpenCV: 4.4.0  - `pip install tensorflow==4.4.0`
   
 
-Make sure to also download the object-detection files from https://github.com/Nigama-oss/Object-detection before running on your computer.
+Make sure to also download the object-detection files from https://github.com/Nigama-oss/Tensorflow before running on your computer.
