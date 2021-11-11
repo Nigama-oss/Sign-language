@@ -1,7 +1,7 @@
 # Sign-language
 A Real time sign language detection app with Tensorflow and React.js
 
-Checkout the process of creating this project in [this blog post](https://nigamavykari.bloggi.co/sign-language-detection-with-tensorflow)
+Checkout the process of creating this project in **[This Blog Post](https://nigamavykari.bloggi.co/sign-language-detection-with-tensorflow)**
 
 ### Steps to follow to fix environment errors.
 
