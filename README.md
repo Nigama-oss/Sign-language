@@ -1,11 +1,13 @@
 # Sign-language
 A Real time sign language detection app with Tensorflow and React.js
 
-### If you are facing any problems with setting up your enviroment, follow these steps
+Checkout the process of creating this project in [this blog post](https://nigamavykari.bloggi.co/sign-language-detection-with-tensorflow)
+
+### Steps to follow to fix environment errors.
 
 - Install the latest version of anaconda.
 
-- Then install Protoc 3.13 from here: https://github.com/protocolbuffers/protobuf/releases. For windows, download the repository and then add it to your PATH file. 
+- Then install Protoc 3.13 from [here](https://github.com/protocolbuffers/protobuf/releases). For windows, download the repository and then add it to your PATH file. 
 
 - Then install python packages using the pip command: 
 
@@ -14,7 +16,4 @@ A Real time sign language detection app with Tensorflow and React.js
   OpenCV: 4.4.0  - `pip install tensorflow==4.4.0`
   
 
-Make sure to also download the object-detection files from https://github.com/Nigama-oss/Tensorflow before running on your computer.
-
-
-Checkout the process of creating this project in [this blog post](https://www.nigamavykari.me/sign-language-detection-with-tensorflow/index.html)
+Make sure to also [download](https://github.com/Nigama-oss/Tensorflow) the object-detection files before running on your computer.
